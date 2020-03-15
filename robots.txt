@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cooshohzu.coolway.wang/sitemap.xml
